@@ -61,7 +61,21 @@ dt.predict([[5,6]])
 
 ## Output:
 
+![s1](https://github.com/SmritiManikand/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/113674204/1debffd7-9332-468b-bc02-4ab78c074a16)
 
+![s2](https://github.com/SmritiManikand/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/113674204/47db277e-9cf7-4aca-8a69-3648919abaf5)
+
+![s3](https://github.com/SmritiManikand/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/113674204/cc630a28-f4bf-452f-85ac-61b622a06576)
+
+![s4](https://github.com/SmritiManikand/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/113674204/e52ee8a2-55ab-4465-850d-9e22241c0e38)
+
+![s5](https://github.com/SmritiManikand/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/113674204/e237b8d6-9e70-4332-a703-cd9da175737b)
+
+![s6](https://github.com/SmritiManikand/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/113674204/f66b3b8b-247b-43d0-8ada-d36b1aabb096)
+
+![s7](https://github.com/SmritiManikand/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/113674204/015ad023-bf77-4414-86e1-61606685fef8)
+
+![s8](https://github.com/SmritiManikand/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/113674204/002f3923-0e5a-41e7-b73e-3ed62f375c09)
 
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
