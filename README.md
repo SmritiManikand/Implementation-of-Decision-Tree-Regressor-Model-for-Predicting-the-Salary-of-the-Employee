@@ -73,11 +73,9 @@ dt.predict([[5,6]])
 
 ![s3](https://github.com/SmritiManikand/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/113674204/cc630a28-f4bf-452f-85ac-61b622a06576)
 
-![s4](https://github.com/SmritiManikand/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/113674204/e52ee8a2-55ab-4465-850d-9e22241c0e38)
-
 ## data.head() for salary
 
-![s5](https://github.com/SmritiManikand/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/113674204/e237b8d6-9e70-4332-a703-cd9da175737b)
+![s4](https://github.com/SmritiManikand/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/113674204/e52ee8a2-55ab-4465-850d-9e22241c0e38)
 
 ## MSE value
 
