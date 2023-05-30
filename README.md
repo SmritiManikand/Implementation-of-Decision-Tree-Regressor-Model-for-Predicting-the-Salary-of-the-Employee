@@ -7,7 +7,7 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
+## Algorithm:
 1. Import the required packages.
 2. Read the data set.
 3. Apply label encoder to the non-numerical column inoreder to convert into numerical values.
